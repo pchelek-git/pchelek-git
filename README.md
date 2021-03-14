@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pchelek-git
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on project Windows in Microsoft.
 
 <!---
